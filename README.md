@@ -2,7 +2,7 @@
 
 ## Current Projects
 
-- 🕑 **[Floating Timer]([https://github.com/cteerakit/timer])**
+- 🕑 **[Floating Timer](https://github.com/cteerakit/timer)**
 
 ## GitHub Activity
 
