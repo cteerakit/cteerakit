@@ -9,5 +9,5 @@
 - 🟡 **[Progress](https://github.com/cteerakit/progress)**
 
 ## Fun
-- 🥭 **[Mango](https://github.com/cteerakit/progress](https://github.com/cteerakit/mango)**
+- 🥭 **[Mango](https://github.com/cteerakit/mango)**
 - 🎤 **[YouKe](https://chromewebstore.google.com/detail/youke-%E2%80%94-youtube-karaoke/fmikplidoojigkfpnaabmljeddconcle)**
