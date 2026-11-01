@@ -3,7 +3,7 @@
 ## Apps
 - 🌅 **[Sunrise](https://getsunrise.today)**
 - 🆓 **[Freeed](https://freeed.app)**
-- 📄 **[Paperwork](https://paperwork.tools){:target="_blank"}**
+- 📄 **[Paperwork](https://paperwork.tools)**
 
 ## Chrome Extensions
 - 🕑 **[Floating Timer](https://github.com/cteerakit/timer)**
